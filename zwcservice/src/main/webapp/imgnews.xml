@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<pubDate>2012-02-29 15:20:58</pubDate>
+
+
+		<item>
+			<guid isPermaLink="true">2249991</guid>
+			<logo>upload/Image/mrtp/1_22499885546.jpg</logo>
+			<link>../../../../html/phone/news/ssq/2249991.shtml</link>
+		</item>
+
+		<item>
+			<guid isPermaLink="true">2249984</guid>
+			<logo>upload/Image/mrtp/1_22499802167.jpg</logo>
+			<link>../../../../html/phone/news/ssq/2249984.shtml</link>
+		</item>
+
+		<item>
+			<guid isPermaLink="true">2249975</guid>
+			<logo>upload/Image/mrtp/1_22499779793.jpg</logo>
+			<link>../../../../html/phone/news/ssq/2249975.shtml</link>
+		</item>
+
+
+	</channel>
+</rss>

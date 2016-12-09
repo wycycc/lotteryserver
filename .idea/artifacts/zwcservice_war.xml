@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zwcservice:war">
+    <output-path>$PROJECT_DIR$/zwcservice/target</output-path>
+    <root id="archive" name="com.ycc.zwc.war">
+      <element id="artifact" artifact-name="zwcservice:war exploded" />
+    </root>
+  </artifact>
+</component>
